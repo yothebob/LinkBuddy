@@ -9,8 +9,11 @@ color[1] = c_blue;
 color[2] = c_green;
 color[3] = c_purple;
 color[4] = c_yellow;
+color[5] = c_teal;
+color[6] = c_aqua;
+color[7] = c_fuchsia;
 
-_color = color[irandom(4)];
+_color = color[irandom(7)];
 
 
 if show_question("are you attaching a link?")

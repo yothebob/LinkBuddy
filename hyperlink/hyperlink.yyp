@@ -9,6 +9,7 @@
     {"id":{"name":"control","path":"objects/control/control.yy",},"order":5,},
     {"id":{"name":"ExecuteShell","path":"extensions/ExecuteShell/ExecuteShell.yy",},"order":0,},
     {"id":{"name":"spr_icon","path":"sprites/spr_icon/spr_icon.yy",},"order":1,},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
     {"id":{"name":"obj_add","path":"objects/obj_add/obj_add.yy",},"order":0,},
     {"id":{"name":"rm_hyperlink","path":"rooms/rm_hyperlink/rm_hyperlink.yy",},"order":1,},
   ],
@@ -44,7 +45,6 @@
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/ExecuteShell.yy","order":4,"resourceVersion":"1.0","name":"ExecuteShell","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Rooms/ExecuteShell.yy","order":1,"resourceVersion":"1.0","name":"ExecuteShell","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
